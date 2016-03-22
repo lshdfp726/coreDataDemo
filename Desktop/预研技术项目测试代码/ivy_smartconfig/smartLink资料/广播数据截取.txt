@@ -1,0 +1,2 @@
+Android端广播消息类容截取：
+{"body":{"server":"szcloud.landinghome.net:8560","time":1442299177928,"date":"2015-09-15 14:39:37","GMT":"+0800","appver":1,"country":"Asia\/Shanghai"},"header":{"msg_id":"f060491fcad94b54a34fe6163344bb8d","action":"SET","module":"config","send_to":"15356358acf6f7f8f9f0f2a5e6e7e8fd","bodyLen":"0"}}

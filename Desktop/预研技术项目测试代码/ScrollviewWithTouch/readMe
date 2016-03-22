@@ -1,0 +1,7 @@
+类目里面本来不允定义property属性方法，但是此类目里面自己实现了set和get方法。所以此类目的property不是属性范畴，相当于两个方法了。（个人感觉这才是真正的属性方法调用）
+
+
+viewController 里面定义的block是系统默认添加的set和get方法。所以不用在.m文件里面实现set和get。
+
+
+其实我们的property定义的属性本质上都是属于get和set结合体。
